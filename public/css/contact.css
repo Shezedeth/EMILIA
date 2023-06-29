@@ -1,0 +1,19 @@
+.contact h2 {
+    font-family: var(--tipografiaTitulos);
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.contact article {
+    margin-bottom: 30px;
+
+}
+
+.contact h3 {
+    color: var(--colorVerde);
+    font-weight: 500;
+}
+
+.contact p {
+    margin: 0;
+}

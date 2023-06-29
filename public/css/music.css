@@ -1,0 +1,46 @@
+body.music {
+    background-image: url("/img/emilia-music-top.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: right -110px;
+}
+
+.music h4 {
+    font-family: var(--tipografiaTitulos);
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.music h5 {
+font-weight: 400;
+margin-bottom: 0;
+}
+
+.music ul {
+    padding-left: 35px;
+    font-size: 20px;
+}
+
+.music li a {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.section--album {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.section--album ol {
+    padding-left: 10px;
+}
+
+.section--album ol li {
+    list-style: none;
+    padding-top: 18px;
+}
+
+.section--album p {
+    margin: 0;
+}
+.section--album a {
+    line-height: 80px;
+}
